@@ -7,6 +7,7 @@ I chose a bar chart to depict the relationship between the amount of syringes fo
 
 # Data Visualization: Box Plot
 I chose a box plot to showcase the median numbers of syringes found in two parks, Tompkins Square Park and Coleman Playground, in Manhattan. A box plot allowed me to compare the median of syringe collections in different parks. You can easily see which parks tend to have higher or lower median numbers of syringes collected.
+
 ![image](https://github.com/user-attachments/assets/07fc6255-0b3f-4d16-a7c4-a31dd99eb6f7)
 
 # Regression Analysis
