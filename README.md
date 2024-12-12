@@ -11,8 +11,12 @@ I chose a box plot to showcase the median numbers of syringes found in two parks
 ![image](https://github.com/user-attachments/assets/07fc6255-0b3f-4d16-a7c4-a31dd99eb6f7)
 
 # Regression Analysis
-Multiple Linear Regression Model with columns 'Source' and the 'Year' number to predict the "Group" value which holds the names of the groups responsible for the collection of syringes. For multiple linear regression, R-squared is calculated as the proportion of the variance in the dependent variable that is predictable from the independent variables. My R-Squared value amounted to 0.73, which indicates that the independent variables explain most of the variability of the dependent variable.
-The correlation coefficient (r) is typically used to describe the relationship between each independent variable and the dependent variable individually. My value was 0.39 or 0.4 which indicates that there was little linear relationship. 
+Multiple Linear Regression Model with columns 'Source' and the 'Year' number to predict the "Group" value which holds the names of the groups responsible for the collection of syringes. 
+
+- For multiple linear regression, R-squared is calculated as the proportion of the variance in the dependent variable that is predictable from the independent variables. My R-Squared value amounted to 0.73, which indicates that the independent variables explain most of the variability of the dependent variable.
+
+- The correlation coefficient (r) is typically used to describe the relationship between each independent variable and the dependent variable individually. My value was 0.39 or 0.4 which indicates that there was little linear relationship. 
+
 ![Screenshot 2024-12-12 154616](https://github.com/user-attachments/assets/002868a5-79ff-418a-9499-975f8c6b8214)
 
 # Conclusion
